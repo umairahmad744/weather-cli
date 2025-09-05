@@ -3,7 +3,7 @@ import pandas as pd
 from datetime import datetime
 
 # Your API key
-API_KEY = "8b6a24d448a8347765bea052d45130ea"
+API_KEY = "8b6a24d448a8347765bea052d45130ea" #use your own beacuse i delete this Thanks
 
 # Ask user for city
 city = input("Enter city name: ")
