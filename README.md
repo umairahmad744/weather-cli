@@ -1,2 +1,2 @@
-# weather-cli
+# Weather-cli
 My First Mini Project
